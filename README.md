@@ -7,8 +7,8 @@
 ⚠ Below are walkthrough instructions for cloning repository, installing requirements, and running script:
 
 
-##_______________- Clone Repo From Github using Git -_______________##
-user@ubuntu:-# git clone https://github.com/BRuDesDev/BRuTa-Mate.git
+###_______________- Clone Repo From Github using Git -_______________### <br>
+user@ubuntu:-# git clone https://github.com/BRuDesDev/BRuTa-Mate.git<br>
 
-##_______________- Install Required  -_______________##
+###_______________- Install Required  -_______________###<br>
 user@ubuntu:-# pip install -r  requirements.txt
