@@ -1,0 +1,4 @@
+banner
+autoscraper
+requests
+beautifulsoup4
