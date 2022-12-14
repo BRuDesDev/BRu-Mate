@@ -1,4 +1,4 @@
-# BRuTa-Mate by BRuToPia
+# BRu-Mate by BRuToPia
 
      A SIMPLE CLI SCRIPT TO AUTOMATE PROCESSES AND ACCESS TOOLS
 ====================================================================
@@ -10,5 +10,5 @@
 ###_______________- Clone Repo From Github using Git -_______________### <br>
 user@ubuntu:-# git clone https://github.com/BRuDesDev/BRuTa-Mate.git<br>
 
-###_______________- Install Required  -_______________###<br>
+###_______________- You MUST install the required packages  -_______________###<br>
 user@ubuntu:-# pip install -r  requirements.txt
